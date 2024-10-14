@@ -13,7 +13,6 @@ pyvenv.cfg
 .access_token
 .spotify_response
 pip-selfcheck.json
-main.py
 
 ### Python template
 # Byte-compiled / optimized / DLL files

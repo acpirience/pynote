@@ -1,0 +1,7 @@
+[data]
+notes_dir = "D:\\Obsidian\\MyLyfe\\05 pronote data\\"
+datafile_prefix = "notes_"
+datafile_suffix = ".txt"
+
+[export]
+export_dir = "D:"
