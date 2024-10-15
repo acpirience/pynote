@@ -1,7 +1,10 @@
 [data]
+# files with grades are in this folder
 notes_dir = "D:\\Obsidian\\MyLyfe\\05 pronote data\\"
+# expected name format is (datafile_prefix)NAME(datafile_suffix)
 datafile_prefix = "notes_"
 datafile_suffix = ".txt"
 
 [export]
-export_dir = "D:"
+# export fir for files generated
+export_dir = "D:\\"
